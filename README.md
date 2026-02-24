@@ -10,3 +10,4 @@
 <img src="images/SlackwareFamilyTree1210.svg">
 <img src="images/RedHatFamilyTree1210.svg">
 <img src="images/KnoppixFamilyTree1210.svg">
+<img src="images/GentooFamilyTree1210.svg">
