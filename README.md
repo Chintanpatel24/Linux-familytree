@@ -4,4 +4,4 @@
 
 </div>
 
-<img src="images/">
+<img src="images/Linux_Distribution_Timeline.svg">
